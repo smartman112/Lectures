@@ -8,3 +8,8 @@ Be sure to clone this repository to your local machine and ```pull``` from this 
 
 * **Module:** Pre-requisites
 * **Lecture Topic:** brief review of programming with Python and calculus
+
+## Lecture 1
+
+* **Module:** Introduction to Data Science and Python
+* **Lecture Topic:** Introduction to Data Science
