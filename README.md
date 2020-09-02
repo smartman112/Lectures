@@ -13,3 +13,8 @@ Be sure to ```clone``` this repository to your local machine and ```pull``` from
 
 * **Module:** Introduction to Data Science and Python
 * **Lecture Topic:** Introduction to Data Science
+
+## Lecture 2
+
+* **Module:** Introduction to Data Science and Python
+* **Lecture Topic:** Introduction to Python and Jupyter Notebooks, Random Experiments and Simulations
